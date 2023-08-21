@@ -19,20 +19,7 @@
 
   ## 🧰 Language and Tools
 
-<div align="center">
-  <!--Top Languages-->
-  <a href="https://github.com/FelipePiacentiniChemin/Xamarin.Forms.NeoControls">
-    <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LucasMallmannEich&hide=Batchfile&layout=compact&theme=dracula" />
-  </a>
 
-  <!--Stats-->
-  <a href="https://github.com/LucasMallmannEich/Xamarin.Forms.NeoControls">
-    <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LucasMallmannEich&show_icons=true&line_height=27&theme=dracula" alt="Felipe's github stats" />
-  </a>
-</div>
-&nbsp;
-&nbsp;
-&nbsp;
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
